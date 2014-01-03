@@ -1,0 +1,17 @@
+{
+  "uuid": "f9b6c229-f939-4809-8f16-f8fd9b5b2f74",
+  "shortName": "Death Clock",
+  "longName": "Death Clock",
+  "companyName": "http://usrsb.in",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
