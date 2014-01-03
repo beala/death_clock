@@ -1,7 +1,7 @@
 death_clock
 ===========
 
-Count down to your death. A [memento mori](https://en.wikipedia.org/wiki/Memento_mori). Tick tock.
+Count down to your death. A [memento mori](https://en.wikipedia.org/wiki/Memento_mori).
 
 ![Tick tock](screenshot.png)
 
